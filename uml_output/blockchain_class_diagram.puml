@@ -1,0 +1,86 @@
+@startuml
+class "Wallet" as C_0006342630758667138651
+class C_0006342630758667138651 {
+{static} +Generate_Private_Key() : std::string
+{static} +Generate_Public_Key(std::string PrivateKey) : std::string
++InstantiateWallet(std::string PrivateKey) : void
+{static} +Sign_Data(std::string Data, std::string & PrivateKey) : std::string
+{static} +Verify_Key_Pair(std::string PrivateKey, std::string PublicKey) : bool
+{static} +Verify_Signature(std::string Data, std::string Signature, std::string PublicKey) : bool
+__
++PublicKey : std::string
+}
+class "Transaction" as C_0018294433187272543367
+class C_0018294433187272543367 {
++operator<(const Transaction & other) const : const bool
++operator>(const Transaction & other) const : const bool
+..
++CalculateReward() const : double
++GetAmmount() : double
++GetFee() : bool
++GetHash() : std::string
++GetReciever() : std::string
++GetSender() : std::string
++Init(std::string & SenderPC, std::string Sender, std::string Reciever, double ammount, double fee = 0) : void
++Is_Initalised() : bool
++PRINT_TRANSACTION() : std::string
++Verify() : bool
+__
+-Ammount : double
+-Fee : double
+-Hash : std::string
+-Initalised : bool
+-RecipientAddress : std::string
+-SenderAddress : std::string
+-Signature : std::string
+-Timestamp : std::chrono::time_point<std::chrono::system_clock>
+}
+class "Block" as C_0001951095593539343111
+class C_0001951095593539343111 {
++Block() = default : void
++Block(const Block & other) = default : void
+..
++ChainBlock(Block & Previous, std::array<Transaction,5 + 1> Data, std::string MinerAddress) : void
++CheckBalance(std::string WaletKey) : std::map<std::string,Transaction>
++GenisisBlock() : void
++GetIndex() : unsigned int
++MerkleRoot() : std::string
++Mine(std::string DataToHash) : std::string
++PrintBlock() : std::string
++PrintBlockTransactions() : std::string
++Validate(Block & Previous, bool DataCheck = true) : bool
+__
+-HASH : std::string
+-HASH_PREV : std::string
+-Index : unsigned int
+-Timestamp : unsigned int
+-TransInBlock : unsigned int
+-Transactions : std::array<Transaction,5 + 1>
+-nonce : unsigned int
+}
+class "BlockChain" as C_0003788901854571586720
+class C_0003788901854571586720 {
++BlockChain() : void
+..
++AddBlock(Block NewBlock) : void
++CheckBalance(std::string WaletKey) : std::map<std::string,Transaction>
++CheckNumericBalance(std::string WaletKey) : double
+-GetNextPoolSet() : std::array<Transaction,5 + 1>
++Get_Block(int i) : Block
++Get_Last_Block() : Block
++NewBlock(std::string MinerAddress) : void
++PRINT_CHAIN() : std::string
++PRINT_POOL() : std::string
++PushTransaction(Transaction Datum) : void
++Validate() : bool
+__
+-Blocks : std::vector<Block>
+-TransactionPool : std::priority_queue<Transaction>
+}
+C_0001951095593539343111 o-- C_0018294433187272543367 : -Transactions
+C_0003788901854571586720 o-- C_0001951095593539343111 : -Blocks
+C_0003788901854571586720 o-- C_0018294433187272543367 : -TransactionPool
+
+'Generated with clang-uml, version 0.6.2
+'LLVM version Ubuntu clang version 18.1.3 (1ubuntu1)
+@enduml

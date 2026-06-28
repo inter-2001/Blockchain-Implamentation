@@ -1,0 +1,43 @@
+
+
+Timing Without threading: 0ms
+Hash: 
+Nonce: 4294967295
+Timing With threading: 1ms
+Hash: ffe6ff84ffee7b27ffe7ffe466ff8dffbfffc4ffaeffe4ffbbfff1fff1ffc4797f4d6a7aff97172b394750fffdffa0ff8a7b
+Nonce: 0
+
+Timing Without threading: 1ms
+Hash: 0e607720fff1ffcf0630ffdd6523fff059fff436ffaa71ffdcff8c7575744dffb8665658ffb1ffa1fff3ff883e
+Nonce: 31
+Timing With threading: 1ms
+Hash: 0e607720fff1ffcf0630ffdd6523fff059fff436ffaa71ffdcff8c7575744dffb8665658ffb1ffa1fff3ff883e
+Nonce: 31
+
+Timing Without threading: 29ms
+Hash: 00ffc117ff9324ffee001affbdff9a08ffabfff52561ff8023376bfffe4cffe35afff0511b57fff17a601452
+Nonce: 607
+Timing With threading: 5ms
+Hash: 00ffc117ff9324ffee001affbdff9a08ffabfff52561ff8023376bfffe4cffe35afff0511b57fff17a601452
+Nonce: 607
+
+Timing Without threading: 145ms
+Hash: 00043bff8cff900cff97ffe7ffbd610e2c4545ffadffdeffe731ff99ffccff99ff8e2c5418ff86fffeffefffdd06063b
+Nonce: 11534
+Timing With threading: 49ms
+Hash: 00043bff8cff900cff97ffe7ffbd610e2c4545ffadffdeffe731ff99ffccff99ff8e2c5418ff86fffeffefffdd06063b
+Nonce: 11534
+
+Timing Without threading: 779ms
+Hash: 0000ff987c31ffd6ffbf7516ffb4ffd23cfff619ffc1ff8d11ffc946ffceff8affdd654379ffbbff831040347affe8
+Nonce: 62584
+Timing With threading: 271ms
+Hash: 0000ff987c31ffd6ffbf7516ffb4ffd23cfff619ffc1ff8d11ffc946ffceff8affdd654379ffbbff831040347affe8
+Nonce: 62584
+
+Timing Without threading: 19383ms
+Hash: 00000e38781f09ffb92822ffcb18ffa4ff83ffebff9c76162dff986dffd47e526cfff92877ff9eff835240
+Nonce: 1579410
+Timing With threading: 7547ms
+Hash: 00000e38781f09ffb92822ffcb18ffa4ff83ffebff9c76162dff986dffd47e526cfff92877ff9eff835240
+Nonce: 1579410

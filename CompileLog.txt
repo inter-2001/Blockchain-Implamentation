@@ -1,0 +1,1452 @@
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:16:05 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:17:22 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:22:18 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:27:49 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:29:34 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:35:23 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:36:17 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:36:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:37:11 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:38:08 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:40:40 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:41:01 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:41:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:46:07 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:47:51 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:50:49 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:53:48 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:55:25 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:55:57 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:56:13 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:56:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Tue  5 May 15:56:51 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:03:09 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:33:15 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:44:09 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:45:10 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:45:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:47:05 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:47:58 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:48:36 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:51:43 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:53:23 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:54:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:54:28 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:54:52 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:56:10 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:56:25 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:58:42 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 11:59:06 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:02:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:02:28 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:04:16 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:06:55 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:10:39 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:11:34 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:13:12 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:13:54 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:15:15 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:18:33 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:21:11 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:22:11 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:25:24 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:25:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:30:06 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:30:45 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:32:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:39:04 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri  8 May 12:39:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:16:56 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:18:24 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:18:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:19:57 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:21:13 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:22:07 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:22:51 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:23:37 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:24:36 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 13:24:51 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Wallet.hpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:23:20 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:25:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:27:20 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:27:40 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:27:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:28:17 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:28:44 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:29:07 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:30:11 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:32:06 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:32:41 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:35:10 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:37:04 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:38:43 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 15:48:52 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 17:44:51 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 17:47:35 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 17:59:46 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:00:13 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:02:55 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:05:29 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:06:35 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:10:37 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:11:28 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:11:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:12:51 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Sat  9 May 18:17:51 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Tue 12 May 12:56:52 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Tue 12 May 18:34:32 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Test.cpp
+Output Exex  : Exec
+Date and Time: Tue 12 May 18:46:01 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 16:45:07 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 16:47:34 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 16:48:14 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 16:48:29 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:28:27 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:29:54 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:30:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:32:57 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:34:18 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:37:41 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:38:54 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 21:40:29 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:04:39 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:10:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:13:12 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:14:37 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:15:37 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:20:18 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:21:12 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:29:44 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:33:14 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:39:37 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:42:34 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:43:53 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:44:32 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Wed 13 May 22:45:32 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 10:56:15 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 10:58:40 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 11:06:01 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 11:06:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 11:19:30 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 11:21:44 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 11:31:43 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 11:33:12 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:14:10 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:18:56 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:19:52 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:22:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:26:49 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:27:29 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:28:18 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:30:18 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:40:52 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 12:56:55 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:00:27 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:01:15 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:03:40 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:05:02 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:10:27 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:38:52 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:41:38 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:42:35 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:44:06 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 13:45:04 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:03:05 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:03:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:06:13 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:47:53 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:48:44 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:49:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:49:40 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:50:02 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:50:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:51:15 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:52:36 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 14:52:57 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:04:45 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:06:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:08:56 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:11:46 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:14:13 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:55:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:57:34 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 15:59:17 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 16:41:24 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 16:42:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 16:44:36 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 16:46:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 16:50:52 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 16:55:18 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:08:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:17:29 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:20:53 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:25:29 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:27:33 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:28:09 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:29:15 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:30:40 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:35:55 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:41:32 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:43:32 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 18:47:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 20:17:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 20:19:17 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Thu 14 May 20:20:08 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri 15 May 13:49:26 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri 15 May 14:04:24 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri 15 May 15:41:57 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Fri 15 May 15:53:31 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 15:22:09 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 15:24:11 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 15:53:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 15:54:39 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 15:56:13 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 15:59:04 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 16:31:58 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 16:35:37 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 16:37:05 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 16:38:40 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 16:42:58 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 16:45:27 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:06:03 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:09:09 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:10:50 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:13:56 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:14:55 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:16:33 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:18:38 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:19:42 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:20:38 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 17:30:26 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:18:32 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:21:10 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:22:17 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:23:17 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:24:36 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:25:41 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:26:43 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:37:27 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:42:10 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:43:00 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:44:14 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:44:59 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:45:45 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:46:39 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:47:46 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 20:48:33 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 21:00:04 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 21:00:47 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 21:02:20 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 21:02:28 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 21:03:45 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 21:58:18 BST 2026
+Compile Notes: 
+
+
+Compiled Main: Main.cpp
+Output Exex  : Exec
+Date and Time: Sat 16 May 22:20:06 BST 2026
+Compile Notes: 

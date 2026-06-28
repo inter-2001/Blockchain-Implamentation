@@ -1,0 +1,7 @@
+-std=c++2b -lcryptopp -lftxui-component -lftxui-dom -lftxui-screen
+Main.cpp
+Exec
+0
+0
+1
+0

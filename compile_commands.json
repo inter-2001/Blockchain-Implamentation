@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-fdiagnostics-color=always",
+      "-std=c++20",
+      "-g",
+      "-O0",
+      "-std=c++2b",
+      "-o",
+      "Exec",
+      "Main.cpp"
+    ],
+    "directory": "/media/inter/DISERTATION/Blockchain Coursework/ProgectDir",
+    "file": "/media/inter/DISERTATION/Blockchain Coursework/ProgectDir/Main.cpp",
+    "output": "/media/inter/DISERTATION/Blockchain Coursework/ProgectDir/Exec"
+  }
+]
