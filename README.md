@@ -24,6 +24,8 @@ Printing a block has two steps, one is the PrintBlock function in the Block clas
 Part 3
 
 
+
+
 The Wallet Class
 The Wallet class shown in Fig11 has two main purposes, to store a public key and to check the balance of said key. The actual logic of these functions is split between the BlockChain class and DigitalSigning.hpp header file. This is then implemented into the UI as shown in Fig12. Alongside the standard implementation I have added a save function for each key pair for saving a generated wallet to a file.
 The Transaction Class
@@ -33,6 +35,8 @@ As can be seen in fig15, the UI elements to create a transaction have been creat
 
 
 Part 4
+
+
 
 
 Generating New Blocks
@@ -46,7 +50,11 @@ Empty Block Rewards
 The function here shows how the system calculates rewards and difficulty for empty blocks. If a block is not full it will increase in difficulty threshold by 1 for each blank entry, This increase in difficulty makes it harder to pump out near empty blocks, limiting inflation. But also allowing for the creation of new currency when there are no new pending transactions. This is a twofold system designed to increase interest in downtimes by allowing for mining empty blocks for diminishing rewards (1/ total blocks) whilst also decreasing energy overheads by making peak time mining the most profitable option due to far higher rewards being given per transaction.
 
 
+
+
 Part 5
+
+
 
 
 Validating the BlockChain Structure and Blocks
