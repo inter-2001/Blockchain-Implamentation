@@ -33,6 +33,8 @@ As can be seen in fig15, the UI elements to create a transaction have been creat
 
 
 Part 4
+
+
 Generating New Blocks
 As I implemented the Transaction Pool as a weighted que the function to grab blocks, shown in fig17, is rather simple. It can also handle not having a full set of transactions to handle by simply leaving the remaining values uninitialised. The value TransactionsInBlock is a constant value defining how many transactions are to be entered into each block, this defaults to 5.
 Proof of Work
@@ -45,6 +47,8 @@ The function here shows how the system calculates rewards and difficulty for emp
 
 
 Part 5
+
+
 Validating the BlockChain Structure and Blocks
 Validation is performed via a tiered system, Each block is Validated individually using the Fig21 algorithm. This is then done in sequence by the Fig22 algorithm, validating the whole chain.
 Validating Balance
