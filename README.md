@@ -1,10 +1,14 @@
 Part 1 Project Setup
+
+
 The Project setup for me involves utilising NeoVim and a custom compilation UI CTUI.
 FTXUI(Sonzogni, 2026) was used for the UI portion of the Project, This is a relatively simple TUI (Terminal User Interface) system that can be used to create universal UI systems as due to the ANSI terminals ubiquity, it should work on most systems. It is also, due to being terminal only, usable over SSH, making it incredibly useful for headless systems.
 Alongside FTXUI I have utilised cthash(Dusíková, 2026) for hashing and Crypto++(“Crypto++ Library 8.9 | Free C++ Class Library of Cryptographic Schemes,” n.d.) for the elliptic curve digital signing.
 
 
 Part 2
+
+
 The Block Class
 The block class deviates slightly from the C# style implementation in that it doesn’t use the constructor and copy constructor to generate itself, it instead uses ChainBlock and GenisisBlock to initiate itself. This allows the class to be included with more ease in other classes, letting it be instantiated in memory, without being fully initialised. It also allows for it to be copied with ease.
 Hashing
@@ -18,6 +22,8 @@ Printing a block has two steps, one is the PrintBlock function in the Block clas
 
 
 Part 3
+
+
 The Wallet Class
 The Wallet class shown in Fig11 has two main purposes, to store a public key and to check the balance of said key. The actual logic of these functions is split between the BlockChain class and DigitalSigning.hpp header file. This is then implemented into the UI as shown in Fig12. Alongside the standard implementation I have added a save function for each key pair for saving a generated wallet to a file.
 The Transaction Class
